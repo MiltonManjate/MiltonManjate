@@ -16,11 +16,11 @@ I enjoy creating scalable, secure, and user-friendly solutions while continuousl
     <img src="https://img.shields.io/badge/GitHub-MILTON%20MANJATE-181717?style=for-the-badge&logo=github" />
   </a>
 
-  <a href="mailto:kellymauricio399@gmail.com">
+  <a href="mailto:MiltonManjate97@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://linkedin.com/in/SEU_LINKEDIN">
+  <a href="https://linkedin.com/in/milton-manjate-775797332">
     <img src="https://img.shields.io/badge/LinkedIn-Milton%20Manjate-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
