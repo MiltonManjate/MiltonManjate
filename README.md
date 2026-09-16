@@ -20,11 +20,11 @@ I enjoy solving real-world problems through technology, building reliable softwa
     <img src="https://img.shields.io/badge/WhatsApp-%2B258%20870%20440%20078-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 
-  <a href="https://github.com/SEU_USERNAME">
+  <a href="https://github.com/MiltonManjate">
     <img src="https://img.shields.io/badge/GitHub-Milton%20Manjate-181717?style=for-the-badge&logo=github" />
   </a>
 
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/milton-manjate-775797332/">
     <img src="https://img.shields.io/badge/LinkedIn-Milton%20Manjate-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -160,7 +160,10 @@ A selection of projects developed using different technologies.
 [Project Name](LINK)
 
 ### 🐹 Go
-[Project Name](LINK)
+**SIGE — Sistema Integrado de Gestão Escolar** (API REST com Go + Gin + GORM + MySQL + JWT)
+
+- Backend: [api.go.sige.com](https://github.com/MiltonManjate/api.go.sige.com)
+- Frontend: [www.sige.com](https://github.com/MiltonManjate/www.sige.com)
 
 ### 💻 C#
 [Project Name](LINK)
@@ -169,7 +172,10 @@ A selection of projects developed using different technologies.
 [Project Name](LINK)
 
 ### 🟢 Vue.js
-[Project Name](LINK)
+**SIGE Frontend** (Vue 3 + TypeScript + Vite + Pinia + Bootstrap 5)
+
+- Frontend: [www.sige.com](https://github.com/MiltonManjate/www.sige.com)
+- Backend: [api.go.sige.com](https://github.com/MiltonManjate/api.go.sige.com)
 
 ### 🔴 CodeIgniter
 [Project Name](LINK)
@@ -178,9 +184,9 @@ A selection of projects developed using different technologies.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MiltonManjate&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiltonManjate&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -190,7 +196,7 @@ A selection of projects developed using different technologies.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=MiltonManjate&theme=tokyonight&hide_border=true" />
 
 </p>
 
