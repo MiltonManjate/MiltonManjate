@@ -153,32 +153,44 @@ I enjoy solving real-world problems through technology, building reliable softwa
 
 A selection of projects developed using different technologies.
 
-### 🐘 PHP
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="28"/> PHP
+
 [Project Name](LINK)
 
-### ⚙️ Laravel
-[Project Name](LINK)
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="28"/> Laravel
 
-### 🐹 Go
+**SoftClinic** — Clinic & Laboratory Management System (Laravel 13 + DomPDF)
+
+- Repository: [softclinic](https://github.com/MiltonManjate/softclinic)
+- Docs: [README](https://github.com/MiltonManjate/softclinic/blob/main/README.md)
+
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="28"/> Go
+
 **SIGE — Sistema Integrado de Gestão Escolar** (API REST com Go + Gin + GORM + MySQL + JWT)
 
 - Backend: [api.go.sige.com](https://github.com/MiltonManjate/api.go.sige.com)
 - Frontend: [www.sige.com](https://github.com/MiltonManjate/www.sige.com)
 
-### 💻 C#
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="28"/> C#
+
 [Project Name](LINK)
 
-### 🟢 Pascal / Pascalzim
+### <img src="https://img.shields.io/badge/Pascal-007ACC?style=flat-square&logoColor=white" height="22"/> Pascal / Pascalzim
+
 [Project Name](LINK)
 
-### 🟢 Vue.js
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="28"/> Vue.js
+
 **SIGE Frontend** (Vue 3 + TypeScript + Vite + Pinia + Bootstrap 5)
 
 - Frontend: [www.sige.com](https://github.com/MiltonManjate/www.sige.com)
 - Backend: [api.go.sige.com](https://github.com/MiltonManjate/api.go.sige.com)
 
-### 🔴 CodeIgniter
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="28"/> CodeIgniter
+
 [Project Name](LINK)
+
+---
 
 # 📊 GitHub Statistics
 
